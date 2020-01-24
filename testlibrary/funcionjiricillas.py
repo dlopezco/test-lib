@@ -1,0 +1,2 @@
+def chao():
+    print('chao')
